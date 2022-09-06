@@ -1,2 +1,2 @@
 # Descriptive-Statistics-Techniques
-Statistic techniques to apply on data for analysis or EDA
+Statistic techniques to apply on data for analysis or EDA with Visualization.
